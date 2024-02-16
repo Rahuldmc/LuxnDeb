@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/LuxnDeb/static/css/main.de7cb61a.css",
+    "main.js": "/LuxnDeb/static/js/main.13b11b7e.js",
+    "static/media/hero.jpg": "/LuxnDeb/static/media/hero.a67e2d24ba87f9b8b500.jpg",
+    "static/media/event1.jpg": "/LuxnDeb/static/media/event1.6d2d6227a4db6891774c.jpg",
+    "static/media/arvr.jpg": "/LuxnDeb/static/media/arvr.6f1c944c485b51d7a9af.jpg",
+    "static/media/uiux.jpg": "/LuxnDeb/static/media/uiux.cda171b8d7c26c46d5d8.jpg",
+    "static/media/web.jpg": "/LuxnDeb/static/media/web.6dfbca023d66a6b15545.jpg",
+    "static/media/logo.png": "/LuxnDeb/static/media/logo.24063dbc1a5b2a353442.png",
+    "index.html": "/LuxnDeb/index.html",
+    "main.de7cb61a.css.map": "/LuxnDeb/static/css/main.de7cb61a.css.map",
+    "main.13b11b7e.js.map": "/LuxnDeb/static/js/main.13b11b7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de7cb61a.css",
+    "static/js/main.13b11b7e.js"
+  ]
+}
