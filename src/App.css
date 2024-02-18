@@ -258,7 +258,7 @@
 
 .agenda-list li{
   width: 400px;
-  height: 35px;
+  height: auto;
   display: flex;
   align-items: center;
   /* justify-content: flex-start; */
